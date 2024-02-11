@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482117874806",
+    "project_id": "trackiteasy-e9bf0",
+    "storage_bucket": "trackiteasy-e9bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482117874806:android:c23d6d324f73c16c101b57",
+        "android_client_info": {
+          "package_name": "com.kotlinenjoyers.trackiteasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482117874806-ip7poi9euqpd1dg9ufe1tn5631u7up46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kotlinenjoyers.trackiteasy",
+            "certificate_hash": "8508bad6c49bd70f7fdc5356e7880db25430b5d1"
+          }
+        },
+        {
+          "client_id": "482117874806-jtenek80r4qkr2n2b2rojj6kni3kgm6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghrO9wVWAzo6MtDp0wXhtwOKddSE8TQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482117874806-7h2ajel20j67r7o8a7dnm7i1vr8s7msl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "com.kotlinenjoyers.trackiteasy.parceldatastore";
+option java_multiple_files = true;
+
+message ParsersRetriever {
+  map<string, string> parsersRetrievers = 1;
+}
+
+message Cookie {
+  string name = 1;
+  string value = 2;
+  string domain = 3;
+}
+
+message Account {
+  bool active = 1;
+  string idParserRetriever = 2;
+  string info = 3;
+  repeated Cookie cookies = 4;
+  optional string extraInfo = 5;
+}
+
+message Accounts {
+  repeated Account account = 1;
+}
